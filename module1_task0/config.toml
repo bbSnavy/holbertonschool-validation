@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Awesome Inc.'
-publishDir = 'dist'
+publishDir = './dist'
 
 [module]
 [[module.imports]]
